@@ -1,25 +1,42 @@
-# 👋 Olá, eu sou o André!
+<h1 align="center">👋 Olá! Eu sou o André</h1>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e movido pelo desafio de transformar ideias em soluções práticas. Atualmente, venho me especializando em **RPA (Automação de Processos Robóticos)**, **Desenvolvimento Back-End com Python**, e estou de olho nas tendências como **Cloud Computing** e **QA**.
+<p align="center">
+  💻 Estudante de Análise e Desenvolvimento de Sistemas<br>
+  🤖 Foco em RPA | Python | Backend<br>
+  🚀 Apaixonado por tecnologia, inovação e aprendizado contínuo
+</p>
 
-🧠 **Em constante aprendizado**:
-- 🐍 Python, SQL e JavaScript
-- 🤖 UiPath para automações
-- 🛠️ Git, GitHub, Linux básico e infraestrutura
-- ☁️ Explorando fundamentos de Cloud Computing e segurança da informação
+---
 
-🚀 **Projetos em andamento**:
-- `Quality Study`: app para organização de estudos
-- Automatizações com UiPath
-- Protótipos e sistemas web com Python e Node.js
+### 🔧 Tecnologias que venho estudando
+- 🐍 Python & SQL
+- 🤖 RPA com UiPath
+- ☁️ Fundamentos de Cloud Computing
+- 🛠️ Git, GitHub e Linux básico
 
-📌 **Sobre mim**:
-- Tenho foco, resiliência e uma baita vontade de crescer na área de tecnologia.
-- Valorizo o trabalho em equipe, a troca de conhecimento e a busca por soluções criativas.
-- Estou sempre aberto a novos aprendizados e desafios que me tirem da zona de conforto.
+---
 
-📫 **Vamos nos conectar?**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresqueiroz/)
-[![E-mail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:andresqdc2006@gmail.com)
+### 📌 Projetos em andamento
+- `Quality Study`: sistema para organizar rotinas de estudo
+- Scripts de automação com Python e UiPath
+- Protótipos com Node.js e Flask
 
-⚡ *"Não basta sonhar com o futuro — é preciso codá-lo."*
+---
+
+### 📬 Vamos nos conectar?
+
+<p>
+  <a href="https://www.linkedin.com/in/andresqueiroz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:andresqdc2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://sites.google.com/view/portfoliohub-andre?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><i>"Codar é criar pontes entre o hoje e o amanhã."</i></p>
