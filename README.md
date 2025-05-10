@@ -34,6 +34,8 @@
   </a>
   <a href="https://sites.google.com/view/portfoliohub-andre?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+  <a href="https://andresqcdev.github.io/portif-lio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio 2"/>
   </a>
 </p>
 
